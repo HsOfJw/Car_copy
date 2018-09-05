@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "2e42770e-fc6b-425e-88b2-af745d62efbf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "bt_buycar": {
+      "ver": "1.0.3",
+      "uuid": "d93c777d-1a2e-4317-bf6f-b72cebbdb23f",
+      "rawTextureUuid": "2e42770e-fc6b-425e-88b2-af745d62efbf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 218,
+      "height": 121,
+      "rawWidth": 218,
+      "rawHeight": 121,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

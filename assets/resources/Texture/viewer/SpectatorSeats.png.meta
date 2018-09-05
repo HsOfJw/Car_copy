@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "3ace418d-dc9c-44f3-85cf-e6e4b89f7836",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "SpectatorSeats": {
+      "ver": "1.0.3",
+      "uuid": "fa180d8e-7f94-4c30-8072-3dc07985bc24",
+      "rawTextureUuid": "3ace418d-dc9c-44f3-85cf-e6e4b89f7836",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 666,
+      "height": 1063,
+      "rawWidth": 666,
+      "rawHeight": 1063,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

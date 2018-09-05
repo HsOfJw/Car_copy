@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "a897e6ab-3561-408f-9e89-d4f03d03a420",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "forsight24": {
+      "ver": "1.0.3",
+      "uuid": "7f2647ad-e04c-4481-b389-1964f07dd336",
+      "rawTextureUuid": "a897e6ab-3561-408f-9e89-d4f03d03a420",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 130,
+      "height": 89,
+      "rawWidth": 130,
+      "rawHeight": 89,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

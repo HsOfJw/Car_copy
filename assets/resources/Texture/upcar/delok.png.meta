@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "15dcfed5-6b94-4c92-82fa-1b630742d9ac",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "delok": {
+      "ver": "1.0.3",
+      "uuid": "58647c7b-d6ee-481d-9277-13ba281f691c",
+      "rawTextureUuid": "15dcfed5-6b94-4c92-82fa-1b630742d9ac",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 135,
+      "height": 75,
+      "rawWidth": 135,
+      "rawHeight": 75,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

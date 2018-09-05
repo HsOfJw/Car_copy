@@ -1,0 +1,6 @@
+name:疯狂赛车场
+appid:wx13647178f311336f
+secret:db4dae9713dedfc3977df60eab7cb83f
+email:460035893@qq.com
+pass:hxx362321
+
