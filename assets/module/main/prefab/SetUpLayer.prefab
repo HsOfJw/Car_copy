@@ -33,7 +33,7 @@
       }
     ],
     "_tag": -1,
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 31
@@ -68,7 +68,7 @@
     "_scaleY": 1,
     "_position": {
       "__type__": "cc.Vec2",
-      "x": 18,
+      "x": 393,
       "y": 271
     },
     "_skewX": 0,
@@ -193,7 +193,7 @@
       "__id__": 1
     },
     "asset": {
-      "__id__": 0
+      "__uuid__": "03c12e1a-65b9-4c8a-bdbf-b24dbac01a49"
     },
     "fileId": "9cugCzIDtD7qg1KDNu1QDF",
     "sync": false
@@ -351,7 +351,7 @@
       "__id__": 1
     },
     "asset": {
-      "__id__": 0
+      "__uuid__": "03c12e1a-65b9-4c8a-bdbf-b24dbac01a49"
     },
     "fileId": "b8xq36y8lEcruVnGn3P+zi",
     "sync": false
@@ -509,7 +509,7 @@
       "__id__": 1
     },
     "asset": {
-      "__id__": 0
+      "__uuid__": "03c12e1a-65b9-4c8a-bdbf-b24dbac01a49"
     },
     "fileId": "56QsAPJrJK6KNaORAMSp1a",
     "sync": false
@@ -664,7 +664,7 @@
       "__id__": 1
     },
     "asset": {
-      "__id__": 0
+      "__uuid__": "03c12e1a-65b9-4c8a-bdbf-b24dbac01a49"
     },
     "fileId": "f4W/zleJZJzZ4QsjaF6I47",
     "sync": false
@@ -755,7 +755,7 @@
       "__id__": 1
     },
     "asset": {
-      "__id__": 0
+      "__uuid__": "03c12e1a-65b9-4c8a-bdbf-b24dbac01a49"
     },
     "fileId": "575HhOH0lJVYYFmsOC8EvN",
     "sync": false
@@ -856,7 +856,7 @@
       "__id__": 1
     },
     "asset": {
-      "__id__": 0
+      "__uuid__": "03c12e1a-65b9-4c8a-bdbf-b24dbac01a49"
     },
     "fileId": "e29qyQ9vFNrahiPuG1Un/t",
     "sync": false
@@ -1008,7 +1008,7 @@
       "__id__": 1
     },
     "asset": {
-      "__id__": 0
+      "__uuid__": "03c12e1a-65b9-4c8a-bdbf-b24dbac01a49"
     },
     "fileId": "b5z9GFYcpAyJDFMLYrRCBr",
     "sync": false
@@ -1095,7 +1095,7 @@
       "__id__": 1
     },
     "asset": {
-      "__id__": 0
+      "__uuid__": "03c12e1a-65b9-4c8a-bdbf-b24dbac01a49"
     },
     "fileId": "73abI4p7tEbYW2BCTQJK+L",
     "sync": false
@@ -1132,7 +1132,7 @@
       "__id__": 1
     },
     "asset": {
-      "__id__": 0
+      "__uuid__": "03c12e1a-65b9-4c8a-bdbf-b24dbac01a49"
     },
     "fileId": "c9k9e9E/9FUoD7cEfaIM57",
     "sync": false
