@@ -6,8 +6,8 @@
  * @Description: 
  */
 
-var _util = require("./GameClass/Util");
-var _data = require("./GameData/UserData");
+var _util = require("GameUtil");
+var _data = require("UserData");
 cc.Class({
     extends: cc.Component,
 

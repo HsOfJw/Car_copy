@@ -6,9 +6,9 @@
  * @Description: 
  */
 
-var _data = require("./GameData/UserData");
-var _util = require("./GameClass/Util");
-var CAR_STATE = require("./GlobalDefine/globalDefine").CarState;
+var _data = require("UserData");
+var _util = require("GameUtil");
+var CAR_STATE = require("GlobalDefine").CarState;
 cc.Class({
     extends: cc.Component,
     properties: {

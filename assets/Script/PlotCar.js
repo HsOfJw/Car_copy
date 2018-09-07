@@ -11,7 +11,7 @@
 //      STATIC:0,
 //      RUN:1,
 //  };
- var CAR_STATE = require("./GlobalDefine/globalDefine").CarState;
+ var CAR_STATE = require("GlobalDefine").CarState;
 cc.Class({
     extends: cc.Component,
 
